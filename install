@@ -1,0 +1,5 @@
+install:
+plasmapkg --type kwinscript -i . 
+
+upgrade:
+plasmapkg --type kwinscript -u .

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Fullscreen Script
+Comment=is for Firefox Video Fullscreen 
+Icon=preferences-system-windows-script-test
+
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/fullscreen.js
+X-KWin-Exclude-Listing=false
+
+X-KDE-PluginInfo-Author=Stefan Masuch
+X-KDE-PluginInfo-Email=this.mutzii@gmail.com
+X-KDE-PluginInfo-Name=kwin-fullscreen-script
+X-KDE-PluginKeyword=kwin-fullscreen-script
+X-KDE-ParentComponents=kwin-fullscreen-script
+X-KDE-PluginInfo-Version=1.0.1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script,KCModule
+X-KDE-Library=kwin/effects/configs/kcm_kwin4_genericscripted
+Type=Service
