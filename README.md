@@ -9,7 +9,8 @@ First Install.
 Use the configuration menu ( in Systemsettings->Window Behavior-Kwin-Scripte )
 
 ### Features:
-- Supported max. two Monitors 
+- Supported max. three Monitors
+- Supported Flash Player (plugin-container)
 
 ### Installation:
 ```sh
