@@ -23,10 +23,3 @@ plasmapkg --type kwinscript -i .
 cd fullscreen/
 plasmapkg --type kwinscript -u .
 ```
-### The Problem:
-Here is a default Firefox HTML5 Video Player fullscreen by two Monitors.
-![](https://picload.org/image/rddrlcdr/fullscreen-problem.png)
-
-### The Script Solution:
-Right Side (second Monitor) a default Firefox HTMl5 Video Player in fullscreen mode.=)
-![](https://img1.picload.org/image/rddrlpii/fullscreen-solution.png)
